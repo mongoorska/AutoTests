@@ -1,0 +1,48 @@
+c:\users\plkrpit\documents\visual studio 2015\Projects\CareersTestAutomation\CareersTestAutomation\obj\Debug\CareersTestAutomation.csprojResolveAssemblyReference.cache
+c:\users\plkrpit\documents\visual studio 2015\Projects\CareersTestAutomation\CareersTestAutomation\bin\Debug\CareersTestAutomation.dll
+c:\users\plkrpit\documents\visual studio 2015\Projects\CareersTestAutomation\CareersTestAutomation\bin\Debug\CareersTestAutomation.pdb
+c:\users\plkrpit\documents\visual studio 2015\Projects\CareersTestAutomation\CareersTestAutomation\bin\Debug\WebDriver.dll
+c:\users\plkrpit\documents\visual studio 2015\Projects\CareersTestAutomation\CareersTestAutomation\bin\Debug\WebDriver.Support.dll
+c:\users\plkrpit\documents\visual studio 2015\Projects\CareersTestAutomation\CareersTestAutomation\bin\Debug\WebDriver.xml
+c:\users\plkrpit\documents\visual studio 2015\Projects\CareersTestAutomation\CareersTestAutomation\bin\Debug\WebDriver.Support.xml
+c:\users\plkrpit\documents\visual studio 2015\Projects\CareersTestAutomation\CareersTestAutomation\obj\Debug\CareersTestAutomation.dll
+c:\users\plkrpit\documents\visual studio 2015\Projects\CareersTestAutomation\CareersTestAutomation\obj\Debug\CareersTestAutomation.pdb
+c:\users\plkrpit\documents\visual studio 2015\Projects\CareersTestAutomation\CareersTestAutomation\bin\Debug\CareersTestAutomation.dll.config
+c:\users\plkrpit\documents\visual studio 2015\Projects\CareersTestAutomation\CareersTestAutomation\bin\Debug\Newtonsoft.Json.dll
+c:\users\plkrpit\documents\visual studio 2015\Projects\CareersTestAutomation\CareersTestAutomation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PLKRPIT\Documents\Visual Studio 2015\Projects\CareersTestAutomation\CareersTestAutomation\bin\Debug\nunit.framework.dll
+C:\Users\PLKRPIT\Documents\Visual Studio 2015\Projects\CareersTestAutomation\CareersTestAutomation\bin\Debug\nunit.framework.xml
+D:\Users\krpituch\Desktop\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\obj\Debug\CareersTestAutomation.csprojResolveAssemblyReference.cache
+D:\Users\krpituch\Desktop\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\obj\Debug\CareersTestAutomation.csproj.CoreCompileInputs.cache
+D:\Users\krpituch\Desktop\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\obj\Debug\CareersTestAutomation.dll
+D:\Users\krpituch\Desktop\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\obj\Debug\CareersTestAutomation.pdb
+D:\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\obj\Debug\CareersTestAutomation.csprojResolveAssemblyReference.cache
+D:\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\obj\Debug\CareersTestAutomation.csproj.CoreCompileInputs.cache
+D:\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\CareersTestAutomation.dll.config
+D:\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\CareersTestAutomation.dll
+D:\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\CareersTestAutomation.pdb
+D:\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\Newtonsoft.Json.dll
+D:\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\nunit.framework.dll
+D:\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\WebDriver.dll
+D:\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\WebDriver.Support.dll
+D:\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\Newtonsoft.Json.xml
+D:\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\nunit.framework.xml
+D:\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\WebDriver.xml
+D:\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\WebDriver.Support.xml
+D:\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\obj\Debug\CareersTestAutomation.dll
+D:\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\obj\Debug\CareersTestAutomation.pdb
+C:\Users\Skochciak\Downloads\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\CareersTestAutomation.dll.config
+C:\Users\Skochciak\Downloads\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\CareersTestAutomation.dll
+C:\Users\Skochciak\Downloads\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\CareersTestAutomation.pdb
+C:\Users\Skochciak\Downloads\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Skochciak\Downloads\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\nunit.framework.dll
+C:\Users\Skochciak\Downloads\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\WebDriver.dll
+C:\Users\Skochciak\Downloads\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\Skochciak\Downloads\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Skochciak\Downloads\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\nunit.framework.xml
+C:\Users\Skochciak\Downloads\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\WebDriver.xml
+C:\Users\Skochciak\Downloads\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\Skochciak\Downloads\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\obj\Debug\CareersTestAutomation.csprojResolveAssemblyReference.cache
+C:\Users\Skochciak\Downloads\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\obj\Debug\CareersTestAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Skochciak\Downloads\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\obj\Debug\CareersTestAutomation.dll
+C:\Users\Skochciak\Downloads\CareersTestAutomation\CareersTestAutomation\CareersTestAutomation\obj\Debug\CareersTestAutomation.pdb
