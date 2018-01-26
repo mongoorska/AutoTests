@@ -10,8 +10,7 @@ namespace CareersTestAutomation.Selectors
         public static By SearchResultsContainer = By.XPath("//section[@class='section container']");
         public static By SearchResult = By.ClassName("col-12"); 
         public static By NextBtn = By.ClassName("pagination__next");
-  //      public static By SortingFilter = By.Name("filter_sorting");
-     //   public static By ContractTypeFilter = By.Name("filter_contract_type");
+
 
 
     }

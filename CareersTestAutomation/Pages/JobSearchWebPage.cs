@@ -22,13 +22,15 @@ namespace CareersTestAutomation.Pages
         public IWebElement SortingFilter;
         public IWebElement ContractTypeFilter;
 
+        public IWebDriver webDriver;
+
         public IList<HtmlControl> SearchResults;
 
         public JobSearchWebPage(IWebDriver driver) : base(driver)
         {
-            ContractTypeFilter = driver.FindElement(By.Name("filter_location"));
-          //  SortingFilter = driver.FindElement(By.Name("filter_sorting"));
-       
+            
+            
+            webDriver = driver;
             WaitForElements();
         }
 
@@ -51,10 +53,8 @@ namespace CareersTestAutomation.Pages
 
             NextBtn = WaitForElementToBeInDom<HtmlSubmit>(JobSearchSelectors.NextBtn);
 
-            //    WaitForGivenElementToBeVisible(SortingFilter);
-            // WaitForGivenElementToBeVisible(ContractTypeFilter);
-            //   SortingFilter = WaitForElementToBeInDom<HtmlControl>(JobSearchSelectors.SortingFilter);
-            //  ContractTypeFilter = WaitForElementToBeInDom<HtmlControl>(JobSearchSelectors.ContractTypeFilter);
+            ContractTypeFilter = webDriver.FindElement(By.Name("filter_location"));
+            SortingFilter = webDriver.FindElement(By.Name("filter_sorting"));
             
 
         }
@@ -86,8 +86,10 @@ namespace CareersTestAutomation.Pages
             SelectElement ContractSelect = new SelectElement(ContractTypeFilter);
             ContractSelect.SelectByIndex(1);
             WaitForElements();
-
-         
+            new WebDriverWait(webDriver, TimeSpan.FromSeconds(45)).Until(ExpectedConditions.ElementExists((By.Name("filter_location"))));
+            SelectElement SortingSelect = new SelectElement(SortingFilter);
+            SortingSelect.SelectByIndex(1);
+            WaitForElements();
 
             WaitForGivenElementToBeVisible(SearchResultsContainer);
             SearchResults = SearchResultsContainer.FindChildElements<HtmlControl>(JobSearchSelectors.SearchResult);
@@ -126,6 +128,8 @@ namespace CareersTestAutomation.Pages
             int counter = 0;
             while (true) { 
                 try {
+                    WaitForElements();
+                    SearchResults = SearchResultsContainer.FindChildElements<HtmlControl>(JobSearchSelectors.SearchResult);
                     counter += SearchResults.Count - 2;
                     Thread.Sleep(2000);
                     NextBtn.Click();
