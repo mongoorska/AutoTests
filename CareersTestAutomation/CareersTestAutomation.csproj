@@ -68,6 +68,7 @@
     <Compile Include="HtmlObjects\Interfaces\IHtmlTextbox.cs" />
     <Compile Include="HtmlObjects\Interfaces\IHtmlHyperliink.cs" />
     <Compile Include="Pages\CapGeminiWebPage.cs" />
+    <Compile Include="Pages\GoogleMainWebPage.cs" />
     <Compile Include="Pages\JobOfferWebPage.cs" />
     <Compile Include="Pages\JobSearchWebPage.cs" />
     <Compile Include="Pages\CareersWebPage.cs" />
@@ -82,6 +83,7 @@
     <Compile Include="Providers\SettingsProvider.cs" />
     <Compile Include="Providers\DriverProvider.cs" />
     <Compile Include="Selectors\CapGeminiSelectors.cs" />
+    <Compile Include="Selectors\GoogleMainSelectors.cs" />
     <Compile Include="Selectors\JobOfferSelectors.cs" />
     <Compile Include="Selectors\JobSearchSelectors.cs" />
     <Compile Include="Selectors\CareersSelectors.cs" />
@@ -89,6 +91,8 @@
     <Compile Include="Tests\CareersTests.cs" />
     <Compile Include="Tests\ExpEduDepartLocTest.cs" />
     <Compile Include="Tests\FilterTest.cs" />
+    <Compile Include="Tests\GoogleSearch.cs" />
+    <Compile Include="Tests\GoogleSearchFiveAspects.cs" />
     <Compile Include="Tests\LocationTest.cs" />
     <Compile Include="Tests\OfferCounter.cs" />
   </ItemGroup>

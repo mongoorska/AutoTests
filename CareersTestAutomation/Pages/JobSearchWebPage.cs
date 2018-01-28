@@ -28,8 +28,6 @@ namespace CareersTestAutomation.Pages
 
         public JobSearchWebPage(IWebDriver driver) : base(driver)
         {
-            
-            
             webDriver = driver;
             WaitForElements();
         }
@@ -41,8 +39,7 @@ namespace CareersTestAutomation.Pages
 
             JobSearchField = WaitForElementToBeInDom<HtmlTextbox>(JobSearchSelectors.JobSearchField, JobSearchComponent);
             JobSearchSubmit = WaitForElementToBeInDom<HtmlSubmit>(JobSearchSelectors.JobSearchSubmit, JobSearchComponent);
-
-
+            
             WaitForGivenElementToBeVisible(JobSearchField);         
 
             base.WaitForElements();
@@ -139,5 +136,7 @@ namespace CareersTestAutomation.Pages
             return counter;
 
         }
+
+
     }
 }
